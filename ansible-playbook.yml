@@ -13,4 +13,4 @@
     command : sudo systemctl start docker
 
   - name: Deploy Docker Container
-    command: docker run -itd -p 1111:8081 karuneshwar/mentorbak:1
+    command: docker run -itd -p 2222:8081 karuneshwar/mentorbak:1
